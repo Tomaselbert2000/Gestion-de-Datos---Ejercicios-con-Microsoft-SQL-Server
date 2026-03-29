@@ -7,7 +7,7 @@ Este proyecto consiste en una recopilación de ejercicios correspondientes a la 
 
 Clonar el repositorio:
 ```bash
-https://github.com/Tomaselbert2000/Gestion-de-Datos---Ejercicios-con-Microsoft-SQL-Server.git
+git clone https://github.com/Tomaselbert2000/Gestion-de-Datos---Ejercicios-con-Microsoft-SQL-Server.git
 ```
 
 
